@@ -1,2 +1,2 @@
 # HackerRank-Swift
-Solutions to hackerRank problems written in Swift
+Solutions to HackerRank problems written in Swift
